@@ -1,4 +1,4 @@
-import GridImage from "@/components/Home/GridImage";
+import GridImage from "@/Components/Home/GridImage";
 import React from "react";
 
 const Home = () => {
