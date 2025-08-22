@@ -105,7 +105,9 @@ const GridImage = () => {
           </div>
         </div>
       </div>
-      <div className=""></div>
+      <div className="">
+        <h1>salam</h1>
+      </div>
     </>
   );
 };
